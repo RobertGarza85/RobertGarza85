@@ -9,7 +9,9 @@
 
 
 
-## Sobre Mí:  Profesional con más de 15 años de experiencia en el sector bancario, especializado en proceso de riesgo financieros y de crédito, procesos contables y elaboración de reportes regulatorios. Uso avanzado de Excel, Recientemente, completé un bootcamp de tecnología en TripleTen, donde desarrollé fuertes habilidades en Python, SQL y análisis de datos, para procesos de análisis y automatización de tareas. Ingresado en el Colegio de Contadores Privados de Costa Rica, CPI: 34527 - 💖 Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos, ya que me apasiona la lógica de programación. 🤖
+## Sobre Mí:  Profesional con más de 15 años de experiencia en el sector bancario, especializado en proceso de riesgo financieros y de crédito, procesos contables y elaboración de reportes regulatorios. Uso avanzado de Excel. Recientemente completé un bootcamp de tecnología en TripleTen, donde desarrollé fuertes habilidades en Python, SQL y análisis de datos, para procesos de análisis y automatización de tareas. Ingresado en el Colegio de Contadores Privados de Costa Rica, CPI: 34527. 
+
+- 💖 Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos, ya que me apasiona la lógica de programación. 🤖
 
 - 📫 Connect with me **robertoc0603@gmail.com**
 
